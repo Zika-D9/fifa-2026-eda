@@ -8,3 +8,6 @@ hw1ds (1).pdf
 
 # Ignore Jupyter background files
 .ipynb_checkpoints/
+
+# Ignore AI CLI instructions
+CLAUDE.md
