@@ -1,8 +1,9 @@
 # Ignore assignment instructions
 hw1ds (1).pdf
 
-# Ignore large dataset files
+# Ignore large dataset files, except the assignment's own data
 *.csv
+!archive/*.csv
 *.txt
 *.xlsx
 
