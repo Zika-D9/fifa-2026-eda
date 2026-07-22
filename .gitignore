@@ -1,0 +1,10 @@
+# Ignore assignment instructions
+hw1ds (1).pdf
+
+# Ignore large dataset files
+*.csv
+*.txt
+*.xlsx
+
+# Ignore Jupyter background files
+.ipynb_checkpoints/
